@@ -31,10 +31,10 @@ latest_posts:
 
 I am interested in algebraic topology and currently a Postdoc at BICMR (Beijing International Center for Mathematical Research) at Peking University.
 
-My research primarily focuses on:
-* **Configuration Spaces:** Studying the topological properties and homological stability of $F(M, n)$.
-* **Homotopy Theory:** Spectral sequences and characteristic classes.
-* **Operations in Homology:** Dyer-Lashof operations $Q^i$ and their applications to group homology.
+My research primarily focuses on **Configuration Spaces:** and its related topic.
+#* **Configuration Spaces:** Studying the topological properties and homological stability of $F(M, n)$.
+#* **Homotopy Theory:** Spectral sequences and characteristic classes.
+#* **Operations in Homology:** Dyer-Lashof operations $Q^i$ and their applications to group homology.
 
 I am also a co-organizer of the **Siyuan Algebraic Topology Seminar**.
 
