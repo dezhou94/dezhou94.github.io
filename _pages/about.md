@@ -6,9 +6,11 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: Dezhou.jpeg
+  image: IMG_1926.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
+
+  
     <p>21 Quanzhai</p>
     <p>Peking University, No. 5 Yiheyuan Road</p>
     <p>Haidian District, Beijing 100871</p>
