@@ -13,7 +13,7 @@ profile:
   
     <p>21 Quanzhai</p>
     <p>Peking University</p>
-    <p>Haidian District, Beijing 100871</p>
+    <p>Beijing 100871</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
