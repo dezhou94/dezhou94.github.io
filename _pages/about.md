@@ -11,7 +11,7 @@ profile:
   more_info: >
 
   
-    <p>21 Quanzhai</p>
+    <p>21 Quanzhai,</p>
     <p>Peking University, No. 5 Yiheyuan Road</p>
     <p>Haidian District, Beijing 100871</p>
 
