@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: ""
 
 profile:
   align: right
@@ -11,9 +11,8 @@ profile:
   more_info: >
 
   
-    <p>21 Quanzhai</p>
-    <p>Peking University</p>
-    <p>Beijing 100871</p>
+    <p>Grand Canyon National Park</p>
+    <p>Arizona, US</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -29,10 +28,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am interested in algebraic topology and currently a Postdoc at BICMR (Beijing International Center for Mathematical Research) at Peking University.
+I am currently a Postdoc at **BICMR** (Beijing International Center for Mathematical Research) in Peking University. My office is located at Quanzhai 21, No. 5 Yiheyuan Road, Haidian District, Beijing, 100871.
 
-My research primarily focuses on **Configuration Spaces** and its related topic.
+I am interested in algebraic topology and my research primarily focuses on **Configuration Spaces** and its related topic.
 
-I am also a co-organizer of the **Siyuan Algebraic Topology Seminar**.
+The best way to reach me is via email, and my email address is dezhouli@pku.edu.cn
+
+I am also a co-organizer of the **Siyuan Algebraic Topology Seminar**. You can read my CV here.
 
 
