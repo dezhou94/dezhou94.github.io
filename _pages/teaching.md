@@ -2,14 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: ""
 nav: true
 nav_order: 6
 calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+### Peking University
+* **Fall 2026:** Instructor, Linear Algebra B
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+### Northeastern University
+* **Spring 2023:** Reading instructor, Directed Reading Program
+* **Spring 2023:** Instructor, Mathematics Thinking
+* **Fall 2021:** Instructor, Mathematics Thinking
 
-{% include courses.liquid %}
