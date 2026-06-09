@@ -34,6 +34,6 @@ I am interested in algebraic topology and my research primarily focuses on **Con
 
 The best way to reach me is via email, and my email address is dezhouli@pku.edu.cn
 
-I am also a co-organizer of the **Siyuan Algebraic Topology Seminar**. You can read my CV here.
+I am also a co-organizer of the [Siyuan Algebraic Topology Seminar](https://pkhomotopy.github.io/). You can read my CV here.
 
 
