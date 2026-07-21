@@ -6,13 +6,13 @@ subtitle: ""
 
 profile:
   align: right
-  image: IMG_1926.jpeg
+  image: 16239.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
 
   
-    <p>Grand Canyon National Park</p>
-    <p>Arizona, US</p>
+    <p>Sagano Romantic Train</p>
+    <p>Kyoto, JP</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
